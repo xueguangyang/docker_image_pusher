@@ -1,2 +1,1 @@
-dm-dbs/dm-db:v8.1.1
-openjdk:8-jdk
+minio/minio:latest
