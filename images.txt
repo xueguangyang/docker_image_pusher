@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.1.0
+node:20.18
