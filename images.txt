@@ -1,1 +1,1 @@
-openjdk:8-jdk
+registry.cn-shanghai.aliyuncs.com/techerwang/dbhub:jem_dm8
