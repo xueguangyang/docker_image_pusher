@@ -1,1 +1,1 @@
-registry.cn-shanghai.aliyuncs.com/techerwang/dbhub:jem_dm8
+docker.elastic.co/elasticsearch/elasticsearch:8.1.0
