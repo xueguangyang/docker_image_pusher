@@ -1,1 +1,1 @@
-minio/minio:latest
+openjdk:8-jdk
